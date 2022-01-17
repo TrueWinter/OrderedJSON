@@ -2,6 +2,11 @@
 
 As the name suggests, OrderedJSON keeps the order in which key-value pairs were added. This is important for use-cases such as hashing or signing a JSON object.
 
+## Installing
+
+```sh
+npm install --save @truewinter/orderedjson
+```
 
 ## Usage
 
