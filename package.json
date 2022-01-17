@@ -1,0 +1,19 @@
+{
+  "name": "orderedjson",
+  "version": "0.0.1",
+  "description": "As the name suggests, OrderedJSON keeps the order in which key-value pairs were added. This is important for use-cases such as hashing or signing a JSON object.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "TrueWinter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrueWinter/OrderedJSON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TrueWinter/OrderedJSON/issues"
+  },
+  "homepage": "https://github.com/TrueWinter/OrderedJSON#readme"
+}
